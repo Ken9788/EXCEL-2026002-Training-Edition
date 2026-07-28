@@ -15,38 +15,38 @@
 * [第0-8章：10步搭建"永久模板"](di-0-jie-duan-han-shu-ji-shi/di-08-zhang-10-bu-da-jian-yong-jiu-mu-ban.md)
 * [第0阶段总结](di-0-jie-duan-han-shu-ji-shi/di-0-jie-duan-zong-jie.md)
 
-## 第1阶段：思维重塑
+## 第1阶段：思维重塑（3天）
 
-* [第1阶段：思维重塑— AI时代的数据分析新逻辑](di-1-jie-duan-si-wei-zhong-su/di-1-jie-duan-si-wei-zhong-su-ai-shi-dai-de-shu-ju-fen-xi-xin-luo-ji.md)
-* [第1-1章：先刷新，再说话](di-1-jie-duan-si-wei-zhong-su/di-11-zhang-xian-shua-xin-zai-shuo-hua.md)
-* [第1-2章：12个快捷键，让手速翻倍](di-1-jie-duan-si-wei-zhong-su/di-12-zhang-12-ge-kuai-jie-jian-rang-shou-su-fan-bei.md)
-* [第1-3章：第一次让AI"替"你写公式](di-1-jie-duan-si-wei-zhong-su/di-13-zhang-di-yi-ci-rang-ai-ti-ni-xie-gong-shi.md)
-* [第1阶段总结](di-1-jie-duan-si-wei-zhong-su/di-1-jie-duan-zong-jie.md)
+* [第1阶段：思维重塑— AI时代的数据分析新逻辑](di-1-jie-duan-si-wei-zhong-su-3-tian/di-1-jie-duan-si-wei-zhong-su-ai-shi-dai-de-shu-ju-fen-xi-xin-luo-ji.md)
+* [第1-1章：先刷新，再说话](di-1-jie-duan-si-wei-zhong-su-3-tian/di-11-zhang-xian-shua-xin-zai-shuo-hua.md)
+* [第1-2章：12个快捷键，让手速翻倍](di-1-jie-duan-si-wei-zhong-su-3-tian/di-12-zhang-12-ge-kuai-jie-jian-rang-shou-su-fan-bei.md)
+* [第1-3章：第一次让AI"替"你写公式](di-1-jie-duan-si-wei-zhong-su-3-tian/di-13-zhang-di-yi-ci-rang-ai-ti-ni-xie-gong-shi.md)
+* [第1阶段总结](di-1-jie-duan-si-wei-zhong-su-3-tian/di-1-jie-duan-zong-jie.md)
 
-## 第2阶段：核心能力
+## 第2阶段：核心能力（5天）
 
-* [第2阶段：核心能力 — 透视分析与自动化清洗](di-2-jie-duan-he-xin-neng-li/di-2-jie-duan-he-xin-neng-li-tou-shi-fen-xi-yu-zi-dong-hua-qing-xi.md)
-* [第2-1章：10秒钟，第一张透视表](di-2-jie-duan-he-xin-neng-li/di-21-zhang-10-miao-zhong-di-yi-zhang-tou-shi-biao.md)
-* [第2-2章：在透视表里"当场计算"](di-2-jie-duan-he-xin-neng-li/di-22-zhang-zai-tou-shi-biao-li-dang-chang-ji-suan.md)
-* [第2-3章：让报表跟着变化起来](di-2-jie-duan-he-xin-neng-li/di-23-zhang-rang-bao-biao-gen-zhe-bian-hua-qi-lai.md)
-* [第2-4章：亲手"洗"一次数据](di-2-jie-duan-he-xin-neng-li/di-24-zhang-qin-shou-xi-yi-ci-shu-ju.md)
-* [第2-5章：3秒合并12个月报表](di-2-jie-duan-he-xin-neng-li/di-25-zhang-3-miao-he-bing-12-ge-yue-bao-biao.md)
-* [第2阶段总结](di-2-jie-duan-he-xin-neng-li/di-2-jie-duan-zong-jie.md)
+* [第2阶段：核心能力 — 透视分析与自动化清洗](di-2-jie-duan-he-xin-neng-li-5-tian/di-2-jie-duan-he-xin-neng-li-tou-shi-fen-xi-yu-zi-dong-hua-qing-xi.md)
+* [第2-1章：10秒钟，第一张透视表](di-2-jie-duan-he-xin-neng-li-5-tian/di-21-zhang-10-miao-zhong-di-yi-zhang-tou-shi-biao.md)
+* [第2-2章：在透视表里"当场计算"](di-2-jie-duan-he-xin-neng-li-5-tian/di-22-zhang-zai-tou-shi-biao-li-dang-chang-ji-suan.md)
+* [第2-3章：让报表跟着变化起来](di-2-jie-duan-he-xin-neng-li-5-tian/di-23-zhang-rang-bao-biao-gen-zhe-bian-hua-qi-lai.md)
+* [第2-4章：亲手"洗"一次数据](di-2-jie-duan-he-xin-neng-li-5-tian/di-24-zhang-qin-shou-xi-yi-ci-shu-ju.md)
+* [第2-5章：3秒合并12个月报表](di-2-jie-duan-he-xin-neng-li-5-tian/di-25-zhang-3-miao-he-bing-12-ge-yue-bao-biao.md)
+* [第2阶段总结](di-2-jie-duan-he-xin-neng-li-5-tian/di-2-jie-duan-zong-jie.md)
 
-## 第3阶段：智能飞跃
+## 第3阶段：智能飞跃（4天）
 
-* [第3阶段：智能飞跃 — AI赋能与数据建模](di-3-jie-duan-zhi-neng-fei-yue/di-3-jie-duan-zhi-neng-fei-yue-ai-fu-neng-yu-shu-ju-jian-mo.md)
-* [第3-1章：让AI写代码，你"审"代码](di-3-jie-duan-zhi-neng-fei-yue/di-31-zhang-rang-ai-xie-dai-ma-ni-shen-dai-ma.md)
-* [第3-2章：在Excel里"跑"Python](di-3-jie-duan-zhi-neng-fei-yue/di-32-zhang-zai-excel-li-pao-python.md)
-* [第3-3章：把四张表"串"成一张网](di-3-jie-duan-zhi-neng-fei-yue/di-33-zhang-ba-si-zhang-biao-chuan-cheng-yi-zhang-wang.md)
-* [第3-4章：让ROAS自己告诉你"达标了"](di-3-jie-duan-zhi-neng-fei-yue/di-34-zhang-rang-roas-zi-ji-gao-su-ni-da-biao-le.md)
-* [第3阶段总结](di-3-jie-duan-zhi-neng-fei-yue/di-3-jie-duan-zong-jie.md)
+* [第3阶段：智能飞跃 — AI赋能与数据建模](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-3-jie-duan-zhi-neng-fei-yue-ai-fu-neng-yu-shu-ju-jian-mo.md)
+* [第3-1章：让AI写代码，你"审"代码](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-31-zhang-rang-ai-xie-dai-ma-ni-shen-dai-ma.md)
+* [第3-2章：在Excel里"跑"Python](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-32-zhang-zai-excel-li-pao-python.md)
+* [第3-3章：把四张表"串"成一张网](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-33-zhang-ba-si-zhang-biao-chuan-cheng-yi-zhang-wang.md)
+* [第3-4章：让ROAS自己告诉你"达标了"](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-34-zhang-rang-roas-zi-ji-gao-su-ni-da-biao-le.md)
+* [第3阶段总结](di-3-jie-duan-zhi-neng-fei-yue-4-tian/di-3-jie-duan-zong-jie.md)
 
-## 第4阶段：实战整合
+## 第4阶段：实战整合（2天）
 
-* [第4阶段：实战整合 — 从技能到系统的跃迁](di-4-jie-duan-shi-zhan-zheng-he/di-4-jie-duan-shi-zhan-zheng-he-cong-ji-neng-dao-xi-tong-de-yue-qian.md)
-* [第4-1章：亲手搭一个"广告分析系统"](di-4-jie-duan-shi-zhan-zheng-he/di-41-zhang-qin-shou-da-yi-ge-guang-gao-fen-xi-xi-tong.md)
-* [第4-2章：优化你的工作流](di-4-jie-duan-shi-zhan-zheng-he/di-42-zhang-you-hua-ni-de-gong-zuo-liu.md)
+* [第4阶段：实战整合 — 从技能到系统的跃迁](di-4-jie-duan-shi-zhan-zheng-he-2-tian/di-4-jie-duan-shi-zhan-zheng-he-cong-ji-neng-dao-xi-tong-de-yue-qian.md)
+* [第4-1章：亲手搭一个"广告分析系统"](di-4-jie-duan-shi-zhan-zheng-he-2-tian/di-41-zhang-qin-shou-da-yi-ge-guang-gao-fen-xi-xi-tong.md)
+* [第4-2章：优化你的工作流](di-4-jie-duan-shi-zhan-zheng-he-2-tian/di-42-zhang-you-hua-ni-de-gong-zuo-liu.md)
 
 ## 全书配套资源包
 
