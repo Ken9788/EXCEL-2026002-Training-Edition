@@ -12,15 +12,15 @@ description: ——AI时代跨境电商广告投手EXCEL特训营
 
 <kbd>**yotta\_tech0228@163.com**</kbd>
 
+#### <sub>**学习周期：14天（分4阶段，可灵活调整）**</sub>
 
+#### <sub>**核心产出：可自动更新的广告投放仪表盘 + AI协作工作流**</sub>
 
-#### **学习周期：14天（分4阶段，可灵活调整）**
+#### <sub>**教学方法：每个知识点配套“视频演示+图文手册+AI指令模板+实操模板”**</sub>
 
-#### **核心产出：可自动更新的广告投放仪表盘 + AI协作工作流**
+### <mark style="color:$success;">**核心理念：**</mark>
 
-#### **教学方法：每个知识点配套“视频演示+图文手册+AI指令模板+实操模板”**
-
-### <mark style="color:$primary;">**核心理念：不再试图成为Excel专家，而是成为“会用AI解决Excel问题的广告专家**</mark>
+### <sup><mark style="color:$success;">**不再试图成为Excel专家，而是成为“会用AI解决Excel问题的广告专家**<mark style="color:$success;"></sup>
 
 ### 全书设计理念
 
