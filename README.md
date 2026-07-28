@@ -18,9 +18,7 @@ description: ——AI时代跨境电商广告投手EXCEL特训营
 
 #### <sub>**教学方法：每个知识点配套“视频演示+图文手册+AI指令模板+实操模板”**</sub>
 
-### <mark style="color:$success;">**核心理念：**</mark>
-
-### <sup><mark style="color:$success;">**不再试图成为Excel专家，而是成为“会用AI解决Excel问题的广告专家**<mark style="color:$success;"></sup>
+### <mark style="color:$success;">**核心理念：**</mark><sup><mark style="color:$success;">**不再试图成为Excel专家，而是成为“会用AI解决Excel问题的广告专家“**<mark style="color:$success;"></sup>
 
 ### 全书设计理念
 
